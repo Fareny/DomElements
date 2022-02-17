@@ -66,6 +66,6 @@ const DomElement = function (selector, height, width, bg, fontSize, position, le
 
 };
 let best = new DomElement('.best', '100', '100', 'black', '14');
-// let block = new DomElement('#block', '100', '100', 'black', '14');
 console.log(best);
+// let block = new DomElement('#block', '100', '100', 'black', '14');
 // console.log(block);
